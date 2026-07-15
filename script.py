@@ -1,4 +1,4 @@
 print("Hello world")
 print("This is a sample script.")
 print("It demonstrates basic Python syntax.")
-ro
+#This is my 1st expt
